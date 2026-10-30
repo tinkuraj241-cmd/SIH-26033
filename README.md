@@ -99,18 +99,6 @@ The proposal can be informed by the following official resources and technical d
 
 See [Research and References](docs/REFERENCES.md) for the relevance of each source.
 
-## Repository structure
-
-```text
-SIH-26033/
-├── README.md
-└── docs/
-    ├── PROPOSED_SOLUTION.md
-    ├── TECHNICAL_APPROACH.md
-    ├── FEASIBILITY.md
-    ├── IMPACT.md
-    └── REFERENCES.md
-```
 
 ## Scope note
 
